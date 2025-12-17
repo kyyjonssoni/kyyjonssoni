@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @kyyjonssoni
-- 👀 I’m interested in pSEO
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on all things interesting
-- 📫 How to reach me: eetu@kuinka.agency
+# 👋 Hi, I’m Eetu aka @kyyjonssoni
+- 👀 **Building:** Viral web experiments · AI-powered content tools · pSEO systems
+- 🌱 **Advising:** Strategic clarity for growth-focused leaders in e-commerce & digital
+- 💞️ **Philosophy:** I don't believe in "move fast and break things." I believe in *move deliberately and compound decisions.* Ship often, measure honestly, question assumptions.
+- 📍 **Based:** Valkeakoski, Finland
+- 📫 **Contact**: www.eetukarppanen.fi / eetu@kuinka.agency
 
 <!---
 kyyjonssoni/kyyjonssoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
